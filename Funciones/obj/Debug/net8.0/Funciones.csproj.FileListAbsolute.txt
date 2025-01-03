@@ -1,0 +1,14 @@
+D:\Developer\dev\C#\Variables\Funciones\bin\Debug\net8.0\Funciones.exe
+D:\Developer\dev\C#\Variables\Funciones\bin\Debug\net8.0\Funciones.deps.json
+D:\Developer\dev\C#\Variables\Funciones\bin\Debug\net8.0\Funciones.runtimeconfig.json
+D:\Developer\dev\C#\Variables\Funciones\bin\Debug\net8.0\Funciones.dll
+D:\Developer\dev\C#\Variables\Funciones\bin\Debug\net8.0\Funciones.pdb
+D:\Developer\dev\C#\Variables\Funciones\obj\Debug\net8.0\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\dev\C#\Variables\Funciones\obj\Debug\net8.0\Funciones.AssemblyInfoInputs.cache
+D:\Developer\dev\C#\Variables\Funciones\obj\Debug\net8.0\Funciones.AssemblyInfo.cs
+D:\Developer\dev\C#\Variables\Funciones\obj\Debug\net8.0\Funciones.csproj.CoreCompileInputs.cache
+D:\Developer\dev\C#\Variables\Funciones\obj\Debug\net8.0\Funciones.dll
+D:\Developer\dev\C#\Variables\Funciones\obj\Debug\net8.0\refint\Funciones.dll
+D:\Developer\dev\C#\Variables\Funciones\obj\Debug\net8.0\Funciones.pdb
+D:\Developer\dev\C#\Variables\Funciones\obj\Debug\net8.0\Funciones.genruntimeconfig.cache
+D:\Developer\dev\C#\Variables\Funciones\obj\Debug\net8.0\ref\Funciones.dll
