@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Developer\\dev\\C#\\Variables\\TipoDeDatos\\TipoDeDatos.csproj",
+      "projectUniqueName": "D:\\Developer\\dev\\C#\\Introduction\\TipoDeDatos\\TipoDeDatos.csproj",
       "projectName": "TipoDeDatos",
-      "projectPath": "D:\\Developer\\dev\\C#\\Variables\\TipoDeDatos\\TipoDeDatos.csproj",
+      "projectPath": "D:\\Developer\\dev\\C#\\Introduction\\TipoDeDatos\\TipoDeDatos.csproj",
       "packagesPath": "C:\\Users\\luigi\\.nuget\\packages\\",
-      "outputPath": "D:\\Developer\\dev\\C#\\Variables\\TipoDeDatos\\obj\\",
+      "outputPath": "D:\\Developer\\dev\\C#\\Introduction\\TipoDeDatos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

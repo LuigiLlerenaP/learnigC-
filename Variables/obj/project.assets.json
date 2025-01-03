@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Developer\\dev\\C#\\Variables\\Variables\\Variables.csproj",
+      "projectUniqueName": "D:\\Developer\\dev\\C#\\Introduction\\Variables\\Variables.csproj",
       "projectName": "Variables",
-      "projectPath": "D:\\Developer\\dev\\C#\\Variables\\Variables\\Variables.csproj",
+      "projectPath": "D:\\Developer\\dev\\C#\\Introduction\\Variables\\Variables.csproj",
       "packagesPath": "C:\\Users\\luigi\\.nuget\\packages\\",
-      "outputPath": "D:\\Developer\\dev\\C#\\Variables\\Variables\\obj\\",
+      "outputPath": "D:\\Developer\\dev\\C#\\Introduction\\Variables\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

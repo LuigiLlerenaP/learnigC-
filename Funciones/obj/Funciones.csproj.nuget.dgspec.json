@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Developer\\dev\\C#\\Variables\\Funciones\\Funciones.csproj": {}
+    "D:\\Developer\\dev\\C#\\Introduction\\Funciones\\Funciones.csproj": {}
   },
   "projects": {
-    "D:\\Developer\\dev\\C#\\Variables\\Funciones\\Funciones.csproj": {
+    "D:\\Developer\\dev\\C#\\Introduction\\Funciones\\Funciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Developer\\dev\\C#\\Variables\\Funciones\\Funciones.csproj",
+        "projectUniqueName": "D:\\Developer\\dev\\C#\\Introduction\\Funciones\\Funciones.csproj",
         "projectName": "Funciones",
-        "projectPath": "D:\\Developer\\dev\\C#\\Variables\\Funciones\\Funciones.csproj",
+        "projectPath": "D:\\Developer\\dev\\C#\\Introduction\\Funciones\\Funciones.csproj",
         "packagesPath": "C:\\Users\\luigi\\.nuget\\packages\\",
-        "outputPath": "D:\\Developer\\dev\\C#\\Variables\\Funciones\\obj\\",
+        "outputPath": "D:\\Developer\\dev\\C#\\Introduction\\Funciones\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
