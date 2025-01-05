@@ -56,3 +56,13 @@ Console.WriteLine(myBook.ShowInfo());
 Console.WriteLine(myBook.Date);
 Console.WriteLine("---------------");
 // -> Herencia
+SavingsAccount savingsAccount = new SavingsAccount("10002221","Luigi Llerena",0.00M,15.0M);
+savingsAccount.Deposit(200);
+Console.WriteLine(savingsAccount);
+CheckingAccount checkingAccount = new CheckingAccount("20002022","Ana P",00.0M,100M);
+checkingAccount.Deposit(300);
+Console.WriteLine(checkingAccount);
+checkingAccount.Withdraw(150); 
+Console.WriteLine("Después de retirar 150 de la cuenta corriente:");
+Console.WriteLine(checkingAccount);
+Console.WriteLine("---------------");

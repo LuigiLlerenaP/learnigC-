@@ -21,12 +21,12 @@ namespace POO
     */
     public class Book
     {
-        private string Title;
-        private string Description;
-        private string Author;
-        private string ISBN;
-        private DateTime date;
-        private double price;
+        private string _title;
+        private string _description;
+        private string _author;
+        private string _ISBN;
+        private DateTime _date;
+        private double _price;
 
         /*
          Podemos controlar los datos que el usuario ingresa en nuestras propiedades,
@@ -35,36 +35,36 @@ namespace POO
         public string Date
         {
             get {
-                return date.ToLongDateString();
+                return _date.ToLongDateString();
             }
         }
         public double Price
         {
             get
             {
-                return price;
+                return _price;
             }
             set
             {
-                if (price < 0)
+                if (_price < 0)
                 {
-                    price = 0;
+                    _price = 0;
                 }
-                price = value;
+                _price = value;
             }
         }
         public Book(string title , string description, string athor , string isbn , DateTime date) 
         { 
-            Title = title;
-            Description = description;
-            Author = athor;
-            ISBN = isbn;
-            this.date = date;
+            _title = title;
+            _description = description;
+            _author = athor;
+            _ISBN = isbn;
+            this._date = date;
         }
 
         public string ShowInfo()
         {
-            return $"Titulo: {Title}\nDescripcion: {Description}\nAutor: {Author}\nISBN: {ISBN}\nFecha: {Date}\nPrecio: {Price:C}";
+            return $"Titulo: {_title}\nDescripcion: {_description}\nAutor: {_author}\nISBN: {_ISBN}\nFecha: {Date}\nPrecio: {Price:C}";
         }
     }
 }
