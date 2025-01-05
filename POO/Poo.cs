@@ -66,3 +66,22 @@ checkingAccount.Withdraw(150);
 Console.WriteLine("Después de retirar 150 de la cuenta corriente:");
 Console.WriteLine(checkingAccount);
 Console.WriteLine("---------------");
+//-> Sobrecarga de metodos 
+InputValidator validator = new InputValidator();
+try
+{
+    Console.WriteLine("=== Validación de una cadena ===");
+    Console.WriteLine(validator.ValidateInput("Luigi"));
+    Console.WriteLine("\n=== Validación de un correo electrónico ===");
+    Console.WriteLine(validator.ValidateInput("luigi@gmail.com", true));
+    Console.WriteLine("\n=== Validación de un número positivo ===");
+    Console.WriteLine(validator.ValidateInput(19));
+    Console.WriteLine(validator.ValidateInput(""));
+    Console.WriteLine(validator.ValidateInput("luigi", true));
+    Console.WriteLine(validator.ValidateInput(-19));
+}
+catch(Exception ex)
+{
+    Console.WriteLine(ex.Message);
+}
+Console.WriteLine("---------------");
