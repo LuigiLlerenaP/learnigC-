@@ -1,38 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Developer\\dev\\C#\\Introduction\\",
+  "WorkspaceRootPath": "C:\\Dev\\learnigC-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C8FB6BD-3FA0-4BF1-8798-CE70150B6C2D}|For\\For.csproj|d:\\developer\\dev\\c#\\introduction\\for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C8FB6BD-3FA0-4BF1-8798-CE70150B6C2D}|For\\For.csproj|solutionrelative:for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|c:\\dev\\learnigc-\\poo\\poo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|solutionrelative:poo\\poo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC64F5AA-CECC-4F23-B80D-979809A6AE4C}|WhileDoWhile\\WhileDoWhile.csproj|d:\\developer\\dev\\c#\\introduction\\whiledowhile\\whiledowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC64F5AA-CECC-4F23-B80D-979809A6AE4C}|WhileDoWhile\\WhileDoWhile.csproj|solutionrelative:whiledowhile\\whiledowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|c:\\dev\\learnigc-\\poo\\propiedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|solutionrelative:poo\\propiedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D185A355-D864-4190-8BD4-3F07ABA25B3E}|EstructurasControl\\EstructurasControl.csproj|d:\\developer\\dev\\c#\\introduction\\estructurascontrol\\estructurascontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D185A355-D864-4190-8BD4-3F07ABA25B3E}|EstructurasControl\\EstructurasControl.csproj|solutionrelative:estructurascontrol\\estructurascontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DEBBDBE-7EAE-42F7-BBC7-56E568209F0F}|Arreglos\\Arreglos.csproj|d:\\developer\\dev\\c#\\introduction\\arreglos\\arreglos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DEBBDBE-7EAE-42F7-BBC7-56E568209F0F}|Arreglos\\Arreglos.csproj|solutionrelative:arreglos\\arreglos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFFD2DC2-A386-49BA-81C4-58F218A8FB92}|Funciones\\Funciones.csproj|d:\\developer\\dev\\c#\\introduction\\funciones\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFFD2DC2-A386-49BA-81C4-58F218A8FB92}|Funciones\\Funciones.csproj|solutionrelative:funciones\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8FCE409-53E0-412D-BF0B-37A18B17063B}|Variables\\Variables.csproj|d:\\developer\\dev\\c#\\introduction\\variables\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8FCE409-53E0-412D-BF0B-37A18B17063B}|Variables\\Variables.csproj|solutionrelative:variables\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D71AEDF-2C9E-4311-B4D0-ABACC47B0064}|TipoDeDatos\\TipoDeDatos.csproj|d:\\developer\\dev\\c#\\introduction\\tipodedatos\\tipodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D71AEDF-2C9E-4311-B4D0-ABACC47B0064}|TipoDeDatos\\TipoDeDatos.csproj|solutionrelative:tipodedatos\\tipodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Developer\\dev\\C#\\Introduction\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|c:\\dev\\learnigc-\\poo\\clasesobjetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|solutionrelative:poo\\clasesobjetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Developer\\dev\\C#\\Introduction\\For\\Program.cs",
-              "RelativeDocumentMoniker": "For\\Program.cs",
-              "ToolTip": "D:\\Developer\\dev\\C#\\Introduction\\For\\Program.cs",
-              "RelativeToolTip": "For\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ClasesObjetos.cs",
+              "DocumentMoniker": "C:\\Dev\\learnigC-\\POO\\ClasesObjetos.cs",
+              "RelativeDocumentMoniker": "POO\\ClasesObjetos.cs",
+              "ToolTip": "C:\\Dev\\learnigC-\\POO\\ClasesObjetos.cs",
+              "RelativeToolTip": "POO\\ClasesObjetos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T23:00:01.916Z",
+              "WhenOpened": "2025-01-04T17:56:24.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Poo.cs",
+              "DocumentMoniker": "C:\\Dev\\learnigC-\\POO\\Poo.cs",
+              "RelativeDocumentMoniker": "POO\\Poo.cs",
+              "ToolTip": "C:\\Dev\\learnigC-\\POO\\Poo.cs*",
+              "RelativeToolTip": "POO\\Poo.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwDYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:48:53.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WhileDoWhile.cs",
-              "DocumentMoniker": "D:\\Developer\\dev\\C#\\Introduction\\WhileDoWhile\\WhileDoWhile.cs",
-              "RelativeDocumentMoniker": "WhileDoWhile\\WhileDoWhile.cs",
-              "ToolTip": "D:\\Developer\\dev\\C#\\Introduction\\WhileDoWhile\\WhileDoWhile.cs",
-              "RelativeToolTip": "WhileDoWhile\\WhileDoWhile.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Title": "Propiedades.cs",
+              "DocumentMoniker": "C:\\Dev\\learnigC-\\POO\\Propiedades.cs",
+              "RelativeDocumentMoniker": "POO\\Propiedades.cs",
+              "ToolTip": "C:\\Dev\\learnigC-\\POO\\Propiedades.cs",
+              "RelativeToolTip": "POO\\Propiedades.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAIAwwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T22:59:26.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Arreglos.cs",
-              "DocumentMoniker": "D:\\Developer\\dev\\C#\\Introduction\\Arreglos\\Arreglos.cs",
-              "RelativeDocumentMoniker": "Arreglos\\Arreglos.cs",
-              "ToolTip": "D:\\Developer\\dev\\C#\\Introduction\\Arreglos\\Arreglos.cs",
-              "RelativeToolTip": "Arreglos\\Arreglos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T22:37:34.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EstructurasControl.cs",
-              "DocumentMoniker": "D:\\Developer\\dev\\C#\\Introduction\\EstructurasControl\\EstructurasControl.cs",
-              "RelativeDocumentMoniker": "EstructurasControl\\EstructurasControl.cs",
-              "ToolTip": "D:\\Developer\\dev\\C#\\Introduction\\EstructurasControl\\EstructurasControl.cs",
-              "RelativeToolTip": "EstructurasControl\\EstructurasControl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T16:14:28.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\Developer\\dev\\C#\\Introduction\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "D:\\Developer\\dev\\C#\\Introduction\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-03T16:11:06.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Funciones.cs",
-              "DocumentMoniker": "D:\\Developer\\dev\\C#\\Introduction\\Funciones\\Funciones.cs",
-              "RelativeDocumentMoniker": "Funciones\\Funciones.cs",
-              "ToolTip": "D:\\Developer\\dev\\C#\\Introduction\\Funciones\\Funciones.cs",
-              "RelativeToolTip": "Funciones\\Funciones.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T00:32:25.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TipoDatos.cs",
-              "DocumentMoniker": "D:\\Developer\\dev\\C#\\Introduction\\TipoDeDatos\\TipoDatos.cs",
-              "RelativeDocumentMoniker": "TipoDeDatos\\TipoDatos.cs",
-              "ToolTip": "D:\\Developer\\dev\\C#\\Introduction\\TipoDeDatos\\TipoDatos.cs",
-              "RelativeToolTip": "TipoDeDatos\\TipoDatos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T20:41:42.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Variables.cs",
-              "DocumentMoniker": "D:\\Developer\\dev\\C#\\Introduction\\Variables\\Variables.cs",
-              "RelativeDocumentMoniker": "Variables\\Variables.cs",
-              "ToolTip": "D:\\Developer\\dev\\C#\\Introduction\\Variables\\Variables.cs",
-              "RelativeToolTip": "Variables\\Variables.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T20:33:07.195Z",
+              "WhenOpened": "2025-01-04T18:00:09.422Z",
               "EditorCaption": ""
             }
           ]
