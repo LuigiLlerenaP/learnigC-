@@ -85,3 +85,31 @@ catch(Exception ex)
     Console.WriteLine(ex.Message);
 }
 Console.WriteLine("---------------");
+
+//-->Sobrescritura de metodos 
+CreditCardPayment payment1 = new CreditCardPayment(
+	DateTime.Now,
+	"Online Shopping",
+	"John Doe",
+	"Luigi Llerena"
+);
+Console.WriteLine(payment1);
+Console.WriteLine("---------------");
+
+CashPayment cashPayment = new CashPayment(
+	 DateTime.Now,
+	 "Restaurant Bill",
+	 "Restaurant Jon",
+	 "Anthony"
+ );
+Console.WriteLine(cashPayment);
+Console.WriteLine("---------------");
+
+TransferPayment bankTransferPayment = new TransferPayment(
+	DateTime.Now,
+	"Invoice Payment",
+	"Maria J.",
+	"Pedro"
+);
+Console.WriteLine(bankTransferPayment);
+Console.WriteLine("---------------");
