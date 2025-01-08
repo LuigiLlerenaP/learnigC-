@@ -25,8 +25,8 @@ namespace POO
 	 * - Permiten agregar lógica adicional al acceder o modificar el valor.
 	 * ===================================== */
 	/* =====================================
-	 * this(): Hace referencia a otro constructor dentro de la misma clase.
-	 * base(): Hace referencia al constructor de la clase base (superclase).
+	 * this(): Hace referencia a otro (constructor / metodo / atributo) dentro de la misma clase.
+	 * base(): Hace referencia a otro (constructor / metodo / atributo) de la clase base (superclase).
 	* ===================================== */
 	public abstract class Payment
 	{
@@ -163,4 +163,54 @@ namespace POO
 		}
 	}
 
+	// - > Another example 
+
+	public class Sale
+	{
+		private decimal[] _amounts;
+		private int _limitAmount;
+		private int _linitEnd;
+
+		public Sale( int limitAmount)
+		{
+			_amounts = new decimal[limitAmount];
+			_limitAmount = limitAmount;
+			_linitEnd = 0;
+		}
+
+		public void AddAmount(decimal amount)
+		{
+			if( _linitEnd < _limitAmount)
+			{
+				_amounts[_linitEnd]= amount;
+				_linitEnd++;
+			}
+		}
+		public virtual decimal GetTotal()
+		{
+			decimal resultAmount = 0;
+			int index = 0;
+			int maxLength = _amounts.Length;
+			while (index < maxLength)
+			{
+				resultAmount += _amounts[index];
+				index++;
+			}
+			return resultAmount;
+		}	
+	}
+
+	public class SaleWithTax : Sale
+	{
+		private const decimal TAX = 1.15M;
+		public SaleWithTax(int limitAmount) : base(limitAmount)
+		{
+		}
+
+		public override decimal GetTotal()
+		{
+			return base.GetTotal() * TAX;
+		}
+	}
 }
+ 

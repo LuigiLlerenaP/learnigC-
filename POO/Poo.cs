@@ -113,3 +113,30 @@ TransferPayment bankTransferPayment = new TransferPayment(
 );
 Console.WriteLine(bankTransferPayment);
 Console.WriteLine("---------------");
+
+Console.WriteLine("---------------");
+Sale sale = new Sale(10);
+sale.AddAmount(3);
+sale.AddAmount(4);
+Console.WriteLine(sale.GetTotal());
+
+SaleWithTax saleWithTax = new SaleWithTax(10);
+saleWithTax.AddAmount(3);
+saleWithTax.AddAmount(4);
+Console.WriteLine(saleWithTax.GetTotal());
+
+Console.WriteLine("---------------");
+try
+{
+	double kilometers = 10;
+	double miles = UnitConverter.KilometersToMiles(kilometers);
+	Console.WriteLine($"{kilometers} kilómetros son {miles} millas.");
+
+	double miles2 = 6.2;
+	double kilometers2 = UnitConverter.MilesToKilometers(miles2);
+	Console.WriteLine($"{miles2} millas son {kilometers2} kilómetros.");
+}
+catch (ArgumentException ex)
+{
+	Console.WriteLine($"Error: {ex.Message}");
+}
