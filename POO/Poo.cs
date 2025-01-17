@@ -140,3 +140,17 @@ catch (ArgumentException ex)
 {
 	Console.WriteLine($"Error: {ex.Message}");
 }
+
+
+Console.WriteLine("---------------");
+SubscriptionManager subscriptionManager = new SubscriptionManager();
+
+Console.WriteLine("Monthly Subscription:");
+ISubscription monthlySubscription = new MonthlySubscription();
+subscriptionManager.ManageSubscription(monthlySubscription);
+Console.WriteLine();
+
+Console.WriteLine("Annual Subscription:");
+ISubscription annualSubscription = new AnnualSubscription();
+subscriptionManager.ManageSubscription(annualSubscription);
+Console.WriteLine("---------------");
