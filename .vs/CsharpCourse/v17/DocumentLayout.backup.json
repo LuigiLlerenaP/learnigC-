@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Developer\\dev\\C#\\learnigC-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22AB03B8-114C-4633-AAA0-21898095396E}|Listas\\Listas.csproj|d:\\developer\\dev\\c#\\learnigc-\\listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22AB03B8-114C-4633-AAA0-21898095396E}|Listas\\Listas.csproj|solutionrelative:listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D882CC10-2D87-44CE-8531-9F9458603D57}|Exepciones\\Exepciones.csproj|d:\\developer\\dev\\c#\\learnigc-\\exepciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D882CC10-2D87-44CE-8531-9F9458603D57}|Exepciones\\Exepciones.csproj|solutionrelative:exepciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234F47C7-3C94-4A21-B3DB-0C72086CA56A}|TiposAnonimos\\TiposAnonimos.csproj|d:\\developer\\dev\\c#\\learnigc-\\tiposanonimos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234F47C7-3C94-4A21-B3DB-0C72086CA56A}|TiposAnonimos\\TiposAnonimos.csproj|solutionrelative:tiposanonimos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\Listas\\Program.cs",
-              "RelativeDocumentMoniker": "Listas\\Program.cs",
-              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\Listas\\Program.cs",
-              "RelativeToolTip": "Listas\\Program.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAuwGgAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\Exepciones\\Program.cs",
+              "RelativeDocumentMoniker": "Exepciones\\Program.cs",
+              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\Exepciones\\Program.cs",
+              "RelativeToolTip": "Exepciones\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T23:56:56.076Z",
+              "WhenOpened": "2025-01-23T03:05:31.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\TiposAnonimos\\Program.cs",
+              "RelativeDocumentMoniker": "TiposAnonimos\\Program.cs",
+              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\TiposAnonimos\\Program.cs",
+              "RelativeToolTip": "TiposAnonimos\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T02:36:28.142Z",
               "EditorCaption": ""
             }
           ]

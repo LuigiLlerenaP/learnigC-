@@ -23,6 +23,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Json", "Json\Json.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listas", "Listas\Listas.csproj", "{22AB03B8-114C-4633-AAA0-21898095396E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposAnonimos", "TiposAnonimos\TiposAnonimos.csproj", "{234F47C7-3C94-4A21-B3DB-0C72086CA56A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exepciones", "Exepciones\Exepciones.csproj", "{D882CC10-2D87-44CE-8531-9F9458603D57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{22AB03B8-114C-4633-AAA0-21898095396E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22AB03B8-114C-4633-AAA0-21898095396E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22AB03B8-114C-4633-AAA0-21898095396E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{234F47C7-3C94-4A21-B3DB-0C72086CA56A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234F47C7-3C94-4A21-B3DB-0C72086CA56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234F47C7-3C94-4A21-B3DB-0C72086CA56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234F47C7-3C94-4A21-B3DB-0C72086CA56A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D882CC10-2D87-44CE-8531-9F9458603D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D882CC10-2D87-44CE-8531-9F9458603D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D882CC10-2D87-44CE-8531-9F9458603D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D882CC10-2D87-44CE-8531-9F9458603D57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

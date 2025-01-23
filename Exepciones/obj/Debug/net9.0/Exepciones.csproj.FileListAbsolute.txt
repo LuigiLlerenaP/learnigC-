@@ -1,0 +1,15 @@
+D:\Developer\dev\C#\learnigC-\Exepciones\bin\Debug\net9.0\Exepciones.exe
+D:\Developer\dev\C#\learnigC-\Exepciones\bin\Debug\net9.0\Exepciones.deps.json
+D:\Developer\dev\C#\learnigC-\Exepciones\bin\Debug\net9.0\Exepciones.runtimeconfig.json
+D:\Developer\dev\C#\learnigC-\Exepciones\bin\Debug\net9.0\Exepciones.dll
+D:\Developer\dev\C#\learnigC-\Exepciones\bin\Debug\net9.0\Exepciones.pdb
+D:\Developer\dev\C#\learnigC-\Exepciones\obj\Debug\net9.0\Exepciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\dev\C#\learnigC-\Exepciones\obj\Debug\net9.0\Exepciones.AssemblyInfoInputs.cache
+D:\Developer\dev\C#\learnigC-\Exepciones\obj\Debug\net9.0\Exepciones.AssemblyInfo.cs
+D:\Developer\dev\C#\learnigC-\Exepciones\obj\Debug\net9.0\Exepciones.csproj.CoreCompileInputs.cache
+D:\Developer\dev\C#\learnigC-\Exepciones\obj\Debug\net9.0\Exepciones.sourcelink.json
+D:\Developer\dev\C#\learnigC-\Exepciones\obj\Debug\net9.0\Exepciones.dll
+D:\Developer\dev\C#\learnigC-\Exepciones\obj\Debug\net9.0\refint\Exepciones.dll
+D:\Developer\dev\C#\learnigC-\Exepciones\obj\Debug\net9.0\Exepciones.pdb
+D:\Developer\dev\C#\learnigC-\Exepciones\obj\Debug\net9.0\Exepciones.genruntimeconfig.cache
+D:\Developer\dev\C#\learnigC-\Exepciones\obj\Debug\net9.0\ref\Exepciones.dll
