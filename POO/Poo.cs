@@ -39,30 +39,30 @@
 using POO;
 //Medical -> Comceptos generales
 Console.WriteLine("---------------");
-MedicalAppoiment medicalAppoiment = new MedicalAppoiment("Luigi","Dolor de cabeza y fiebre",DateTime.Now, "Dra. Ana Gómez", "Medicina General", "Consultorio 3");
+MedicalAppoiment medicalAppoiment = new MedicalAppoiment("Luigi", "Dolor de cabeza y fiebre", DateTime.Now, "Dra. Ana Gómez", "Medicina General", "Consultorio 3");
 Console.WriteLine(medicalAppoiment.GetInfo());
 Console.WriteLine("---------------");
 //Book -> Propiedades
 Console.WriteLine("---------------");
 Book myBook = new Book(
-    "El Principito",
-    "Un cuento filosófico que explora el significado de la vida.",
-    "Antoine de Saint-Exupéry",
-    "978-3-16-148410-0",
-    new DateTime(1943, 4, 6)
+	"El Principito",
+	"Un cuento filosófico que explora el significado de la vida.",
+	"Antoine de Saint-Exupéry",
+	"978-3-16-148410-0",
+	new DateTime(1943, 4, 6)
 );
 myBook.Price = 12.99;
 Console.WriteLine(myBook.ShowInfo());
 Console.WriteLine(myBook.Date);
 Console.WriteLine("---------------");
 // -> Herencia
-SavingsAccount savingsAccount = new SavingsAccount("10002221","Luigi Llerena",0.00M,15.0M);
+SavingsAccount savingsAccount = new SavingsAccount("10002221", "Luigi Llerena", 0.00M, 15.0M);
 savingsAccount.Deposit(200);
 Console.WriteLine(savingsAccount);
-CheckingAccount checkingAccount = new CheckingAccount("20002022","Ana P",00.0M,100M);
+CheckingAccount checkingAccount = new CheckingAccount("20002022", "Ana P", 00.0M, 100M);
 checkingAccount.Deposit(300);
 Console.WriteLine(checkingAccount);
-checkingAccount.Withdraw(150); 
+checkingAccount.Withdraw(150);
 Console.WriteLine("Después de retirar 150 de la cuenta corriente:");
 Console.WriteLine(checkingAccount);
 Console.WriteLine("---------------");
@@ -70,19 +70,19 @@ Console.WriteLine("---------------");
 InputValidator validator = new InputValidator();
 try
 {
-    Console.WriteLine("=== Validación de una cadena ===");
-    Console.WriteLine(validator.ValidateInput("Luigi"));
-    Console.WriteLine("\n=== Validación de un correo electrónico ===");
-    Console.WriteLine(validator.ValidateInput("luigi@gmail.com", true));
-    Console.WriteLine("\n=== Validación de un número positivo ===");
-    Console.WriteLine(validator.ValidateInput(19));
-    Console.WriteLine(validator.ValidateInput(""));
-    Console.WriteLine(validator.ValidateInput("luigi", true));
-    Console.WriteLine(validator.ValidateInput(-19));
+	Console.WriteLine("=== Validación de una cadena ===");
+	Console.WriteLine(validator.ValidateInput("Luigi"));
+	Console.WriteLine("\n=== Validación de un correo electrónico ===");
+	Console.WriteLine(validator.ValidateInput("luigi@gmail.com", true));
+	Console.WriteLine("\n=== Validación de un número positivo ===");
+	Console.WriteLine(validator.ValidateInput(19));
+	Console.WriteLine(validator.ValidateInput(""));
+	Console.WriteLine(validator.ValidateInput("luigi", true));
+	Console.WriteLine(validator.ValidateInput(-19));
 }
-catch(Exception ex)
+catch (Exception ex)
 {
-    Console.WriteLine(ex.Message);
+	Console.WriteLine(ex.Message);
 }
 Console.WriteLine("---------------");
 
@@ -153,4 +153,43 @@ Console.WriteLine();
 Console.WriteLine("Annual Subscription:");
 ISubscription annualSubscription = new AnnualSubscription();
 subscriptionManager.ManageSubscription(annualSubscription);
+Console.WriteLine("---------------");
+
+Console.WriteLine("---------------");
+Shark[] sharks = [
+	new Shark("S1",33),
+	new Shark("S2",44)
+	];
+IFish[] fishs = [
+	new Shark("s3",55),
+	new Siren(55),
+
+];
+//la interfaz hace q
+Interfaces2.ShowFish(sharks);
+Interfaces2.ShowAnimals(sharks);
+Interfaces2.ShowFish(fishs);
+Console.WriteLine("---------------");
+
+Console.WriteLine("---------------");
+Generic.MyList<int> numbers = new Generic.MyList<int>(10);
+numbers.Add(2);
+numbers.Add(3);
+numbers.Add(4);
+numbers.Add(5);
+Generic.MyList<string> str = new Generic.MyList<string>(10);
+str.Add("A");
+str.Add("B");
+str.Add("C");
+str.Add("D");
+Console.WriteLine(numbers.GetElement(11));
+Console.WriteLine(numbers.GetElement(2));
+Console.WriteLine(str.GetElement(3));
+Console.WriteLine(numbers.GetString());
+Console.WriteLine(str.GetString());
+Generic.MyList<Generic.People> people = new Generic.MyList<Generic.People>(10);	
+people.Add(new Generic.People("Luig","Llerena"));
+people.Add(new Generic.People("Antho", "Llerena"));
+Console.WriteLine(people.GetElement(0));
+Console.WriteLine(people.GetString());
 Console.WriteLine("---------------");

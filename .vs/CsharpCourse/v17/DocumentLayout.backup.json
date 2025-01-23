@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "D:\\Developer\\dev\\C#\\learnigC-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|d:\\developer\\dev\\c#\\learnigc-\\poo\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|solutionrelative:poo\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|d:\\developer\\dev\\c#\\learnigc-\\poo\\sobreescrituradatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|solutionrelative:poo\\sobreescrituradatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|d:\\developer\\dev\\c#\\learnigc-\\poo\\poo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|solutionrelative:poo\\poo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|d:\\developer\\dev\\c#\\learnigc-\\poo\\herencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|solutionrelative:poo\\herencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|d:\\developer\\dev\\c#\\learnigc-\\poo\\static.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|solutionrelative:poo\\static.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|d:\\developer\\dev\\c#\\learnigc-\\poo\\propiedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|solutionrelative:poo\\propiedades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|d:\\developer\\dev\\c#\\learnigc-\\poo\\clasesobjetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|solutionrelative:poo\\clasesobjetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|d:\\developer\\dev\\c#\\learnigc-\\poo\\composicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AC43307-B85E-46EB-9C05-2E838C3443ED}|POO\\POO.csproj|solutionrelative:poo\\composicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22AB03B8-114C-4633-AAA0-21898095396E}|Listas\\Listas.csproj|d:\\developer\\dev\\c#\\learnigc-\\listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AB03B8-114C-4633-AAA0-21898095396E}|Listas\\Listas.csproj|solutionrelative:listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,105 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Interfaces.cs",
-              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\POO\\Interfaces.cs",
-              "RelativeDocumentMoniker": "POO\\Interfaces.cs",
-              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\POO\\Interfaces.cs",
-              "RelativeToolTip": "POO\\Interfaces.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEEAAAAsAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\Listas\\Program.cs",
+              "RelativeDocumentMoniker": "Listas\\Program.cs",
+              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\Listas\\Program.cs",
+              "RelativeToolTip": "Listas\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAuwGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T02:03:52.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Propiedades.cs",
-              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\POO\\Propiedades.cs",
-              "RelativeDocumentMoniker": "POO\\Propiedades.cs",
-              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\POO\\Propiedades.cs",
-              "RelativeToolTip": "POO\\Propiedades.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T01:24:13.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ClasesObjetos.cs",
-              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\POO\\ClasesObjetos.cs",
-              "RelativeDocumentMoniker": "POO\\ClasesObjetos.cs",
-              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\POO\\ClasesObjetos.cs",
-              "RelativeToolTip": "POO\\ClasesObjetos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T01:24:09.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Composicion.cs",
-              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\POO\\Composicion.cs",
-              "RelativeDocumentMoniker": "POO\\Composicion.cs",
-              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\POO\\Composicion.cs",
-              "RelativeToolTip": "POO\\Composicion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T01:24:00.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Static.cs",
-              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\POO\\Static.cs",
-              "RelativeDocumentMoniker": "POO\\Static.cs",
-              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\POO\\Static.cs",
-              "RelativeToolTip": "POO\\Static.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T01:23:36.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SobreEscrituraDatos.cs",
-              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\POO\\SobreEscrituraDatos.cs",
-              "RelativeDocumentMoniker": "POO\\SobreEscrituraDatos.cs",
-              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\POO\\SobreEscrituraDatos.cs",
-              "RelativeToolTip": "POO\\SobreEscrituraDatos.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAANUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T04:14:12.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Poo.cs",
-              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\POO\\Poo.cs",
-              "RelativeDocumentMoniker": "POO\\Poo.cs",
-              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\POO\\Poo.cs",
-              "RelativeToolTip": "POO\\Poo.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAAwJsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T20:52:46.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Herencia.cs",
-              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\POO\\Herencia.cs",
-              "RelativeDocumentMoniker": "POO\\Herencia.cs",
-              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\POO\\Herencia.cs",
-              "RelativeToolTip": "POO\\Herencia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T02:09:48.96Z",
+              "WhenOpened": "2025-01-18T23:56:56.076Z",
               "EditorCaption": ""
             }
           ]

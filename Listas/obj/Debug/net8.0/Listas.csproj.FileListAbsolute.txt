@@ -1,0 +1,15 @@
+D:\Developer\dev\C#\learnigC-\Listas\bin\Debug\net8.0\Listas.exe
+D:\Developer\dev\C#\learnigC-\Listas\bin\Debug\net8.0\Listas.deps.json
+D:\Developer\dev\C#\learnigC-\Listas\bin\Debug\net8.0\Listas.runtimeconfig.json
+D:\Developer\dev\C#\learnigC-\Listas\bin\Debug\net8.0\Listas.dll
+D:\Developer\dev\C#\learnigC-\Listas\bin\Debug\net8.0\Listas.pdb
+D:\Developer\dev\C#\learnigC-\Listas\obj\Debug\net8.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\dev\C#\learnigC-\Listas\obj\Debug\net8.0\Listas.AssemblyInfoInputs.cache
+D:\Developer\dev\C#\learnigC-\Listas\obj\Debug\net8.0\Listas.AssemblyInfo.cs
+D:\Developer\dev\C#\learnigC-\Listas\obj\Debug\net8.0\Listas.csproj.CoreCompileInputs.cache
+D:\Developer\dev\C#\learnigC-\Listas\obj\Debug\net8.0\Listas.sourcelink.json
+D:\Developer\dev\C#\learnigC-\Listas\obj\Debug\net8.0\Listas.dll
+D:\Developer\dev\C#\learnigC-\Listas\obj\Debug\net8.0\refint\Listas.dll
+D:\Developer\dev\C#\learnigC-\Listas\obj\Debug\net8.0\Listas.pdb
+D:\Developer\dev\C#\learnigC-\Listas\obj\Debug\net8.0\Listas.genruntimeconfig.cache
+D:\Developer\dev\C#\learnigC-\Listas\obj\Debug\net8.0\ref\Listas.dll

@@ -1,0 +1,15 @@
+D:\Developer\dev\C#\learnigC-\Json\bin\Debug\net8.0\Json.exe
+D:\Developer\dev\C#\learnigC-\Json\bin\Debug\net8.0\Json.deps.json
+D:\Developer\dev\C#\learnigC-\Json\bin\Debug\net8.0\Json.runtimeconfig.json
+D:\Developer\dev\C#\learnigC-\Json\bin\Debug\net8.0\Json.dll
+D:\Developer\dev\C#\learnigC-\Json\bin\Debug\net8.0\Json.pdb
+D:\Developer\dev\C#\learnigC-\Json\obj\Debug\net8.0\Json.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\dev\C#\learnigC-\Json\obj\Debug\net8.0\Json.AssemblyInfoInputs.cache
+D:\Developer\dev\C#\learnigC-\Json\obj\Debug\net8.0\Json.AssemblyInfo.cs
+D:\Developer\dev\C#\learnigC-\Json\obj\Debug\net8.0\Json.csproj.CoreCompileInputs.cache
+D:\Developer\dev\C#\learnigC-\Json\obj\Debug\net8.0\Json.sourcelink.json
+D:\Developer\dev\C#\learnigC-\Json\obj\Debug\net8.0\Json.dll
+D:\Developer\dev\C#\learnigC-\Json\obj\Debug\net8.0\refint\Json.dll
+D:\Developer\dev\C#\learnigC-\Json\obj\Debug\net8.0\Json.pdb
+D:\Developer\dev\C#\learnigC-\Json\obj\Debug\net8.0\Json.genruntimeconfig.cache
+D:\Developer\dev\C#\learnigC-\Json\obj\Debug\net8.0\ref\Json.dll
