@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposAnonimos", "TiposAnoni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exepciones", "Exepciones\Exepciones.csproj", "{D882CC10-2D87-44CE-8531-9F9458603D57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{C452FE33-2BBC-4263-9ECC-37367DE3D6D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{D882CC10-2D87-44CE-8531-9F9458603D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D882CC10-2D87-44CE-8531-9F9458603D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D882CC10-2D87-44CE-8531-9F9458603D57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C452FE33-2BBC-4263-9ECC-37367DE3D6D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C452FE33-2BBC-4263-9ECC-37367DE3D6D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C452FE33-2BBC-4263-9ECC-37367DE3D6D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C452FE33-2BBC-4263-9ECC-37367DE3D6D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

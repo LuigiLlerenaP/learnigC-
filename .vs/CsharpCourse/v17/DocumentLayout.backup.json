@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Developer\\dev\\C#\\learnigC-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D882CC10-2D87-44CE-8531-9F9458603D57}|Exepciones\\Exepciones.csproj|d:\\developer\\dev\\c#\\learnigc-\\exepciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D882CC10-2D87-44CE-8531-9F9458603D57}|Exepciones\\Exepciones.csproj|solutionrelative:exepciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{234F47C7-3C94-4A21-B3DB-0C72086CA56A}|TiposAnonimos\\TiposAnonimos.csproj|d:\\developer\\dev\\c#\\learnigc-\\tiposanonimos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{234F47C7-3C94-4A21-B3DB-0C72086CA56A}|TiposAnonimos\\TiposAnonimos.csproj|solutionrelative:tiposanonimos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C452FE33-2BBC-4263-9ECC-37367DE3D6D1}|LINQ\\LINQ.csproj|d:\\developer\\dev\\c#\\learnigc-\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C452FE33-2BBC-4263-9ECC-37367DE3D6D1}|LINQ\\LINQ.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\Exepciones\\Program.cs",
-              "RelativeDocumentMoniker": "Exepciones\\Program.cs",
-              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\Exepciones\\Program.cs",
-              "RelativeToolTip": "Exepciones\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAiwDMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ\\Program.cs",
+              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\LINQ\\Program.cs",
+              "RelativeToolTip": "LINQ\\Program.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAADwv98AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T03:05:31.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\TiposAnonimos\\Program.cs",
-              "RelativeDocumentMoniker": "TiposAnonimos\\Program.cs",
-              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\TiposAnonimos\\Program.cs",
-              "RelativeToolTip": "TiposAnonimos\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAUwF8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T02:36:28.142Z",
+              "WhenOpened": "2025-01-25T01:49:53.349Z",
               "EditorCaption": ""
             }
           ]
