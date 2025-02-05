@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\Developer\\dev\\C#\\learnigC-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C452FE33-2BBC-4263-9ECC-37367DE3D6D1}|LINQ\\LINQ.csproj|d:\\developer\\dev\\c#\\learnigc-\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C452FE33-2BBC-4263-9ECC-37367DE3D6D1}|LINQ\\LINQ.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31051DB4-DB5E-458A-9EA8-F8325A77D8B9}|FuntionalParadigm\\FuntionalParadigm.csproj|d:\\developer\\dev\\c#\\learnigc-\\funtionalparadigm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31051DB4-DB5E-458A-9EA8-F8325A77D8B9}|FuntionalParadigm\\FuntionalParadigm.csproj|solutionrelative:funtionalparadigm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFD2DC2-A386-49BA-81C4-58F218A8FB92}|Funciones\\Funciones.csproj|d:\\developer\\dev\\c#\\learnigc-\\funciones\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFD2DC2-A386-49BA-81C4-58F218A8FB92}|Funciones\\Funciones.csproj|solutionrelative:funciones\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFD2DC2-A386-49BA-81C4-58F218A8FB92}|Funciones\\Funciones.csproj|d:\\developer\\dev\\c#\\learnigc-\\funciones\\funciones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FFFD2DC2-A386-49BA-81C4-58F218A8FB92}|Funciones\\Funciones.csproj|solutionrelative:funciones\\funciones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{6410393E-3571-48F0-A49C-7E7FD09D1FCF}|EntitySystem\\EntitySystem.csproj|d:\\developer\\dev\\c#\\learnigc-\\entitysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{6410393E-3571-48F0-A49C-7E7FD09D1FCF}|EntitySystem\\EntitySystem.csproj|solutionrelative:entitysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC57A4B1-D4F1-4BC0-84C9-421C6AFDD266}|DBEN\\DBEN.csproj|d:\\developer\\dev\\c#\\learnigc-\\dben\\userfinance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC57A4B1-D4F1-4BC0-84C9-421C6AFDD266}|DBEN\\DBEN.csproj|solutionrelative:dben\\userfinance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{6410393E-3571-48F0-A49C-7E7FD09D1FCF}|EntitySystem\\EntitySystem.csproj|d:\\developer\\dev\\c#\\learnigc-\\entitysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{6410393E-3571-48F0-A49C-7E7FD09D1FCF}|EntitySystem\\EntitySystem.csproj|solutionrelative:entitysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,16 +42,76 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funciones.cs",
+              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\Funciones\\Funciones.cs",
+              "RelativeDocumentMoniker": "Funciones\\Funciones.cs",
+              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\Funciones\\Funciones.cs",
+              "RelativeToolTip": "Funciones\\Funciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T03:31:14.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Funciones.csproj",
+              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\Funciones\\Funciones.csproj",
+              "RelativeDocumentMoniker": "Funciones\\Funciones.csproj",
+              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\Funciones\\Funciones.csproj",
+              "RelativeToolTip": "Funciones\\Funciones.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T03:31:12.145Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\LINQ\\Program.cs",
-              "RelativeDocumentMoniker": "LINQ\\Program.cs",
-              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\LINQ\\Program.cs*",
-              "RelativeToolTip": "LINQ\\Program.cs*",
-              "ViewState": "AgIAAMkAAAAAAAAAAADwv/AAAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\FuntionalParadigm\\Program.cs",
+              "RelativeDocumentMoniker": "FuntionalParadigm\\Program.cs",
+              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\FuntionalParadigm\\Program.cs",
+              "RelativeToolTip": "FuntionalParadigm\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwGYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T01:49:53.349Z",
+              "WhenOpened": "2025-02-04T03:29:55.17Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserFinance.cs",
+              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\DBEN\\UserFinance.cs",
+              "RelativeDocumentMoniker": "DBEN\\UserFinance.cs",
+              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\DBEN\\UserFinance.cs",
+              "RelativeToolTip": "DBEN\\UserFinance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T02:38:55.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\EntitySystem\\Program.cs",
+              "RelativeDocumentMoniker": "EntitySystem\\Program.cs",
+              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\EntitySystem\\Program.cs",
+              "RelativeToolTip": "EntitySystem\\Program.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAowLEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T02:25:06.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Developer\\dev\\C#\\learnigC-\\EntitySystem\\Program.cs",
+              "RelativeDocumentMoniker": "EntitySystem\\Program.cs",
+              "ToolTip": "D:\\Developer\\dev\\C#\\learnigC-\\EntitySystem\\Program.cs",
+              "RelativeToolTip": "EntitySystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T02:24:35.312Z"
             }
           ]
         }

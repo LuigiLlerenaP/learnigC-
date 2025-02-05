@@ -1,0 +1,15 @@
+D:\Developer\dev\C#\learnigC-\FuntionalParadigm\bin\Debug\net9.0\FuntionalParadigm.exe
+D:\Developer\dev\C#\learnigC-\FuntionalParadigm\bin\Debug\net9.0\FuntionalParadigm.deps.json
+D:\Developer\dev\C#\learnigC-\FuntionalParadigm\bin\Debug\net9.0\FuntionalParadigm.runtimeconfig.json
+D:\Developer\dev\C#\learnigC-\FuntionalParadigm\bin\Debug\net9.0\FuntionalParadigm.dll
+D:\Developer\dev\C#\learnigC-\FuntionalParadigm\bin\Debug\net9.0\FuntionalParadigm.pdb
+D:\Developer\dev\C#\learnigC-\FuntionalParadigm\obj\Debug\net9.0\FuntionalParadigm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\dev\C#\learnigC-\FuntionalParadigm\obj\Debug\net9.0\FuntionalParadigm.AssemblyInfoInputs.cache
+D:\Developer\dev\C#\learnigC-\FuntionalParadigm\obj\Debug\net9.0\FuntionalParadigm.AssemblyInfo.cs
+D:\Developer\dev\C#\learnigC-\FuntionalParadigm\obj\Debug\net9.0\FuntionalParadigm.csproj.CoreCompileInputs.cache
+D:\Developer\dev\C#\learnigC-\FuntionalParadigm\obj\Debug\net9.0\FuntionalParadigm.sourcelink.json
+D:\Developer\dev\C#\learnigC-\FuntionalParadigm\obj\Debug\net9.0\FuntionalParadigm.dll
+D:\Developer\dev\C#\learnigC-\FuntionalParadigm\obj\Debug\net9.0\refint\FuntionalParadigm.dll
+D:\Developer\dev\C#\learnigC-\FuntionalParadigm\obj\Debug\net9.0\FuntionalParadigm.pdb
+D:\Developer\dev\C#\learnigC-\FuntionalParadigm\obj\Debug\net9.0\FuntionalParadigm.genruntimeconfig.cache
+D:\Developer\dev\C#\learnigC-\FuntionalParadigm\obj\Debug\net9.0\ref\FuntionalParadigm.dll

@@ -1,0 +1,15 @@
+D:\Developer\dev\C#\learnigC-\DBEN\bin\Debug\net9.0\DBEN.deps.json
+D:\Developer\dev\C#\learnigC-\DBEN\bin\Debug\net9.0\DBEN.runtimeconfig.json
+D:\Developer\dev\C#\learnigC-\DBEN\bin\Debug\net9.0\DBEN.dll
+D:\Developer\dev\C#\learnigC-\DBEN\bin\Debug\net9.0\DBEN.pdb
+D:\Developer\dev\C#\learnigC-\DBEN\obj\Debug\net9.0\DBEN.csproj.AssemblyReference.cache
+D:\Developer\dev\C#\learnigC-\DBEN\obj\Debug\net9.0\DBEN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\dev\C#\learnigC-\DBEN\obj\Debug\net9.0\DBEN.AssemblyInfoInputs.cache
+D:\Developer\dev\C#\learnigC-\DBEN\obj\Debug\net9.0\DBEN.AssemblyInfo.cs
+D:\Developer\dev\C#\learnigC-\DBEN\obj\Debug\net9.0\DBEN.csproj.CoreCompileInputs.cache
+D:\Developer\dev\C#\learnigC-\DBEN\obj\Debug\net9.0\DBEN.sourcelink.json
+D:\Developer\dev\C#\learnigC-\DBEN\obj\Debug\net9.0\DBEN.dll
+D:\Developer\dev\C#\learnigC-\DBEN\obj\Debug\net9.0\refint\DBEN.dll
+D:\Developer\dev\C#\learnigC-\DBEN\obj\Debug\net9.0\DBEN.pdb
+D:\Developer\dev\C#\learnigC-\DBEN\obj\Debug\net9.0\DBEN.genruntimeconfig.cache
+D:\Developer\dev\C#\learnigC-\DBEN\obj\Debug\net9.0\ref\DBEN.dll
